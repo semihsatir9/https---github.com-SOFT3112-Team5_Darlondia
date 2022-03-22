@@ -1,7 +1,7 @@
 import './App.css';
 import { useState } from "react";
 import Axios from 'axios';
-
+/* Just a heads up */
 
 function App() {
 
@@ -23,6 +23,8 @@ function App() {
 
     return (
         <div className="App">
+
+            
             <div className="information">
                 Register
                 <label> Username:</label>
